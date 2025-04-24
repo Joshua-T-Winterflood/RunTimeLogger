@@ -20,6 +20,8 @@ You can then run the project with :
 ```
 ./RunTimeLogger
 ```
+Note that you will be prompted for a Name of the LogFile when running the project.
+
 Note that for the correct usage the log directory needs to be in the same directory as the build directory.
 
 ## Contributing & Future Work
